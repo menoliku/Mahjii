@@ -1,0 +1,60 @@
+[
+    {
+       "questions":"what is chii",
+       "correct_answer":"The call used to make a minjun from an opponent’s discard.",
+       "incorrect_answers":[
+         "A tile call used to make a minkou from an opponent’s discard.",
+         "Formed with possession of three tile types, and calling on the discarded fourth tile.",
+         "A win using an opponent’s discard."
+      ]
+    },
+    {
+       "questions":"what is pon",
+       "correct_answer":"A tile call used to make a minkou from an opponent’s discard.",
+       "incorrect_answers":[
+         "The call used to make a minjun from an opponent’s discard.",
+         "Formed with possession of three tile types, and calling on the discarded fourth tile.",
+         "A win using an opponent’s discard."
+       ]
+    },
+    {
+       "questions":"what is daiminkan",
+       "correct_answer":"Formed with possession of three tile types, and calling on the discarded fourth tile.",
+       "incorrect_answers":[
+         "Four self-drawn identical tiles set aside as a kantsu. Declaring an ankan does not open the hand if it was previously closed.",
+         "A win using an opponent’s discard."
+       ]
+    },
+    {
+       "questions":"what is ankan",
+       "correct_answer":"Four self-drawn identical tiles set aside as a kantsu. Declaring an ankan does not open the hand if it was previously closed.",
+       "incorrect_answers":[
+         "Formed with possession of three tile types, and calling on the discarded fourth tile.",
+         "A win using an opponent’s discard."
+       ]
+    },
+    {
+       "questions":"what is ron",
+       "correct_answer":"A win using an opponent’s discard.",
+       "incorrect_answers":[
+         "Winning by self-draw.",
+         "Winning with the drawn tile of a kan."
+       ]
+    },
+    {
+       "questions":"what is tsumo",
+       "correct_answer":"Winning by self-draw.",
+       "incorrect_answers":[
+         "Winning with the drawn tile of a kan.",
+         "A win using an opponent’s discard."
+       ]
+    },
+    {
+       "questions":"what is rinshan tsumo",
+       "correct_answer":"Winning with the drawn tile of a kan.",
+       "incorrect_answers":[
+         "Winning by self-draw.",
+         "A win using an opponent’s discard."
+       ]
+    }
+   ]
