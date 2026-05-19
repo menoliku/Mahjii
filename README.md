@@ -1,5 +1,5 @@
 ### Github page link
-- (https://leekamengmarcus.github.io/asg3-id/)
+- (https://menoliku.github.io/Mahjii/)
 
 ### Google drive video link
 - https://drive.google.com/file/d/1lS8z5TFytJW91AkozYLScHpCyNH1yEqx/view?usp=sharing
